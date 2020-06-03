@@ -1,0 +1,50 @@
+body {
+    background-color: white;
+  }
+  h1 {
+    color: black;
+  }
+  p1 {
+    color: red;
+  }
+  p2 {
+    color: blue;
+  }
+  p3 {
+    color: green;
+  }
+  p4 {
+    font-size: 160%;
+  }
+  p5 {
+    font-size: 50%;
+  }
+  p6 {text-align: center;}
+  p7 {
+      font-weight: bold;
+  }
+  p8 {
+      font-family: fantasy;
+  }
+  p9 {
+      font-size: 160%;
+      color: orange;
+      font-weight: bold;
+  }
+  p01 {
+      font-family: arial;
+      color: green;
+  }
+  p02 {
+      color: black;
+      font-family: Times New Roman;
+      
+  }
+img {
+    border-style: solid;
+    border-color: orange;
+    border-width: 20px;
+}
+
+  }
+  
